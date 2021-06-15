@@ -1,5 +1,7 @@
 {
   "name": "hojavida",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
